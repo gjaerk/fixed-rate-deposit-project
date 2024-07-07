@@ -1,7 +1,7 @@
 
 # Blockchain-Powered Digital Bank POC
 
-A proof of concept for a new startup bank leveraging blockchain technology across all operational areas, focusing on fixed rate deposits.
+A proof of concept leveraging blockchain technology across all operational areas, focusing on fixed rate deposits.
 
 ## Project Overview
 
