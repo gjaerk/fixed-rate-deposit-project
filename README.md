@@ -5,7 +5,7 @@ A proof of concept leveraging blockchain technology across all operational areas
 
 ## Project Overview
 
-This project demonstrates an implementation of blockchain technology of a potential bank. It showcases the potential for increased efficiency, transparency, and security in banking operations, while offering innovative products like fixed rate deposits.
+This project demonstrates an implementation of blockchain technology. It showcases the potential for increased efficiency, transparency, and security in banking operations, while offering innovative products like fixed rate deposits.
 
 ## Features
 
